@@ -1,1 +1,2 @@
-Welcome Navneet Tawar ! This is my first practice
+Welcome Navneet Tawar ! This is my first practice.
+I love devops
